@@ -5,6 +5,8 @@ I got assignment on Monday, but I told the coworker that we can talk about Tuesd
 
 First day at work, August 26, I noticed that SQL server management studio stopped functioning. I could not update the database table content manually, and then I calmed down to look into issues, and then I checked the event log, and then found out disk space of C drive is almost empty. I spent the time to handle the issue, and I was so glad to learn that I came back vacation on time. 
 
+The incident reminded me that I should do better job to manage servers. First of all, I should understand the importance of web server and database server, and ask help to let virus software writing logs on other disk drive, do not compete the disk space with servers. Being nice is not a good option. 
+
 August 20, 2019<br>
 
 **CSS box model** <br>
