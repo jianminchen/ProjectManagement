@@ -28,3 +28,10 @@ Here is the code I wrote this time. I created a comparison. I like to push mysel
 
 The comparison is here. 
 
+
+**Why software engineer should work on frontend?**<br>
+
+I think that the small project is a good demonstration that a software engineer should work as frontend designer as well. I like to work on frontend. It takes good engineering work in order to complete the task. I also make tradeoff how to update CSS: overflow: visible/ invisible by adding CSS dynamically. 
+
+**Pitfall analysis**<br>
+One of issues is that the page may show up some intermediate results. I may need to work on the issue later. 
