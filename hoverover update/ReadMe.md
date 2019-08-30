@@ -5,5 +5,17 @@ I got assignment on Monday, but I told the coworker that we can talk about Tuesd
 
 First day at work, August 26, I noticed that SQL server management studio stopped functioning. I could not update the database table content manually, and then I calmed down to look into issues, and then I checked the event log, and then found out disk space of C drive is almost empty. I spent the time to handle the issue, and I was so glad to learn that I came back vacation on time. 
 
+August 20, 2019<br>
+
+CSS box model <br>
+
+This is a really fun project for me to warm up CSS, html and JavaScript and Jquery. I like to put the title in front of first item, and I need to push to left position. A few problems came out. 
+
+First, I set left: -100px;, but the text was cut off. So I know that there is something next to my current box. What I did is to turn overflow: hidden from hidden to visible. But I could not do that, since my page next button stops working. I have to set CSS style on when mouse hover over, and off when mouse hover off. 
+
+Next, I found another interesting problem. There is width for my text. I found out that I need to work on width:100%, which should be increased to over 150%. 
+
+I also notice that CSS box model is so interesting to work with. I do not invest time last two years to enhance my knowledge. It is so much fun to look into CSS tricks, and then foundation of CSS model is so user-friendly. 
+
 
 
