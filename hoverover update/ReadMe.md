@@ -7,7 +7,7 @@ First day at work, August 26, I noticed that SQL server management studio stoppe
 
 August 20, 2019<br>
 
-CSS box model <br>
+**CSS box model** <br>
 
 This is a really fun project for me to warm up CSS, html and JavaScript and Jquery. I like to put the title in front of first item, and I need to push to left position. A few problems came out. 
 
@@ -18,4 +18,13 @@ Next, I found another interesting problem. There is width for my text. I found o
 I also notice that CSS box model is so interesting to work with. I do not invest time last two years to enhance my knowledge. It is so much fun to look into CSS tricks, and then foundation of CSS model is so user-friendly. 
 
 
+**JavaScript coding**<br>
+
+I do not have a lot of code to write. If I stay the current frameworks for the website, then I only need to write less than hundreds of lines code every time. I am hunger for problem solving, I always like to explore and find interesting projects to work on. 
+
+One thing is to push myself to write beautiful working JavaScript code. 
+
+Here is the code I wrote this time. I created a comparison. I like to push myself to figure out the idea how to make JavaScript code easy to maintain. 
+
+The comparison is here. 
 
