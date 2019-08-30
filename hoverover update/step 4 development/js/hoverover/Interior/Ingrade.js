@@ -28,25 +28,117 @@ var InteriorIngrade = function () {
     pName = pName.concat(["L372", "L373", "L379", "L382"]);
 
     var menuName = "InteriorIngrade".concat("Imagebutton");
-    var cssClass = ".slides_control .";
+    var cssClass = ".slides_control .";   
 
-    var t1 = ["275 lm", "275 lm", "275 lm", "825 lm LEDs", "22 lm",  "22 lm",  "275 lm"];
-    var t2 = ["275 lm", "275 lm", "275 lm", "275 lm", "275 lm", "275 lm", "275 lm"];
-    var t3 = ["275 lm", "275 lm", "275 lm", "275 lm", "825 lm LEDs", "275 lm", "275 lm"];
-    var t4 = ["275 lm", "275 lm", "22 lm", "22 lm", "22 lm", "825 lm", "825 lm"];
-    var t5 = ["825 lm", "880 lm", "880 lm", "880 lm", "880 lm", "275 lm", "275 lm"];
-    var t6 = ["275 lm", "275 lm", "275 lm", "110 lm"];
+    // create a small function to concatenate first item in one page
+    // Title 
+    // Trim Size
+    // LED/Fixture Output
+    // The design of function:
+    // framework.css - 
+    // .mouseHoverTextWithTitle
+    // specify 
+    // left: -120px; 
+    // width: 230%;   (original size is 90 px)
+    // slides.unpacked.js - 
+    // overflow: "visible",   (August 27, 2019 hidden -> visible)
+    // 
+    // two input arguments
+    // Ø2-1/2, '200 / 79 lm'
+    // 'Ø2-1/2\"'
+    function concatenateFirstColumn(trimSize, lumens) {
+        // two title: Trim Size, LED/Fixture Output
+        var title = 'Trim Size';
+        var i;
+        for (i = 0; i < 22; i++) {
+            title = title.concat('&nbsp;')
+        }
+
+        title = title.concat(trimSize);
+        title = title.concat('<br>');
+        title = title.concat('LED/Fixture Output');
+        for (i = 0; i < 6; i++) {
+            title = title.concat('&nbsp;')
+        }
+
+        title = title.concat(lumens);
+
+        return title;   
+    }
+    //                                      L01
+    var firstItem = concatenateFirstColumn('Ø2-1/2\"', '220 / 79 lm');
+    // First row
+    var row1 = [firstItem];
+    row1 = row1.concat(["Ø2-1/2\"<br>275 / 79 lm"]);   // L02
+    row1 = row1.concat(["Ø2-1/2\"<br>275 / 79 lm"]);   // L03
+    row1 = row1.concat(["Ø3-5/8\"<br>825 / 275 lm"]);  // L05
+    row1 = row1.concat(["Ø3/4\"<br>22 / 2.7 lm"]);     // L06
+    row1 = row1.concat(["Ø3/4\"<br>22 / 2.7 lm"]);     // L07
+    row1 = row1.concat(["Ø2-7/16\"<br>275 / 1.6 lm"]); // L08     
+
+    firstItem = concatenateFirstColumn('Ø2-7/16\"', '275 / 1.6 lm'); // L09
+    var row2 = [firstItem];
+    row2 = row2.concat(["Ø2-1/2\"<br>275 / 53 lm"]);    // L300
+    row2 = row2.concat(["Ø2-1/2\"<br>275 / 275 lm"]);  // L301
+    row2 = row2.concat(["Ø1-3/4\"<br>275 / 79 lm"]);   // L302
+    row2 = row2.concat(["Ø1-47/64\"<br>275 / 79 lm"]); // L303
+    row2 = row2.concat(["Ø2-1/2\"<br>275 / 79 lm"]);   // L304
+    row2 = row2.concat(["Ø2-1/4\"<br>275 / 79 lm"]);   // L305 
+
+    firstItem = concatenateFirstColumn('Ø1-3/4\"', '275 / 53 lm'); // L306
+    var row3 = [firstItem];
+    row3 = row3.concat(["Ø1-3/4\"<br>275 / 53 lm"]);  // L307
+    row3 = row3.concat(["Ø2-1/2\"<br>275 / 78 lm"]);  // L310
+    row3 = row3.concat(["Ø2-1/2\"<br>275 / 70 lm"]);  // L312
+    row3 = row3.concat(["Ø3-5/8\"<br>825 / 275 lm"]); // L315
+    row3 = row3.concat(["Ø2-1/2\"<br>275 / 3.8 lm"]); // L320
+    row3 = row3.concat(["Ø2-1/2\"<br>275 / 3.8 lm"]); // L321
+
+    firstItem = concatenateFirstColumn('Ø2-1/2\"', '275 / 3.8 lm'); // L324
+    var row4 = [firstItem];
+    row4 = row4.concat(["Ø2-1/4\"<br>275 / 3.8 lm"]);  // L325
+    row4 = row4.concat(["Ø7/8\"<br>22 / 2.7 lm"]);  // L337
+    row4 = row4.concat(["Ø7/8\"<br>22 / 0.1 lm"]);  // L338
+    row4 = row4.concat(["Ø15/16\"<br>22 / 0.1 lm"]); // L339
+    row4 = row4.concat(["Ø2-3/4\"<br>825 / 275 lm"]); // L352
+    row4 = row4.concat(["Ø3-5/8\"<br>825 / 4.0 lm"]); // L358
     
-    var textArray = t1.concat(t2).concat(t3).concat(t4).concat(t5).concat(t6);
+    firstItem = concatenateFirstColumn('Ø3-5/8\"', '825 / 4.0 lm'); // L359
+    var row5 = [firstItem];
+    row5 = row5.concat(["Ø3-5/8\"<br>880 / 275 lm"]);  // L360
+    row5 = row5.concat(["Ø3-5/8\"<br>880 / 880 lm"]);  // L366
+    row5 = row5.concat(["Ø3-5/8\"<br>880 / 275 lm"]);  // L368
+    row5 = row5.concat(["Ø3-5/8\"<br>880 / 275 lm"]); // L369
+    row5 = row5.concat(["Ø1-3/4\"<br>275 / 79.4 lm"]); // L370
+    row5 = row5.concat(["Ø1-3/4\"<br>275 / 79.4 lm"]); // L371
+
+    firstItem = concatenateFirstColumn('Ø1-3/4\"', '275 / 53 lm'); // L372
+    var row6 = [firstItem];
+    row6 = row6.concat(["Ø1-3/4\"<br>275 / 53 lm"]);  // L373
+    row6 = row6.concat(["Ø1-3/4\"<br>275 / 79 lm"]);  // L379
+    row6 = row6.concat(["Ø1-11/16\"<br>110 / 46 lm"]);  // L382
+
+    var textArray = row1.concat(row2).concat(row3).concat(row4).concat(row5).concat(row6);
 
     hoverover = function () {
-        var idArray = prepareIdArray(cssClass, menuName, pName);
+        /* 8/28/2019 
+        framework.css 
+        Add .mouseHoverTextWithTitle 
+            position: absolute; 
+            top: 126px; 
+            left = -100px;
+            width: 230%;       
+        */
+        $(".slides_container").css('overflow', 'visible'); 
+        $("#carousel_b_border").css('padding-top', '32px'); /* 8/29/2019 two row display */
 
-        mouseHoverOverDetail(idArray, textArray);
+        var idArray = prepareIdArray(cssClass, menuName, pName);        
+        mouseHoverOverDetailWithTitle(idArray, textArray);
     },
     remove = function () {
+        $(".slides_container").css('overflow', 'hidden');
+        $("#carousel_b_border").css('padding-top', '16px');
         var idArray = prepareIdArray(cssClass, menuName, pName);
-
         mouseHoverover_Remove(idArray);
     };  // compile error: , should be ; 
 
