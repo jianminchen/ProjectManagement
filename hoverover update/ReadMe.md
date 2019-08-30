@@ -7,7 +7,7 @@ First day at work, August 26, I noticed that SQL server management studio stoppe
 
 August 20, 2019<br>
 
-CSS box model <br>
+**CSS box model** <br>
 
 This is a really fun project for me to warm up CSS, html and JavaScript and Jquery. I like to put the title in front of first item, and I need to push to left position. A few problems came out. 
 
