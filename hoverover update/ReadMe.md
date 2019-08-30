@@ -37,3 +37,10 @@ I think that the small project is a good demonstration that a software engineer 
 
 **Pitfall analysis**<br>
 One of issues is that the page may show up some intermediate results. I may need to work on the issue later. 
+
+**Design and misc topics**<br>
+
+I really like the project since I also like to refresh my coding skills. I need to write some code and work on a small programming task. 
+
+From design viewpoint, I do think that LED product purchase is a big decision compared to other purchase. So it may not be the good approach to show more detail to help navigate the webpage. I do believe that writing good case study for the project should be more helpful. It helps the business to serve more customer, and help new customer understand how things should work. 
+
