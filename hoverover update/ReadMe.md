@@ -26,7 +26,7 @@ One thing is to push myself to write beautiful working JavaScript code.
 
 Here is the code I wrote this time. I created a comparison. I like to push myself to figure out the idea how to make JavaScript code easy to maintain. 
 
-The comparison is here. 
+The comparison is [here](https://github.com/jianminchen/ProjectManagement/blob/master/hoverover%20update/step%204%20development/ComparisonWork.jpg). 
 
 
 **Why software engineer should work on frontend?**<br>
