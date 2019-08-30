@@ -1,0 +1,24 @@
+
+
+https://www.quora.com/How-can-senior-people-10+-years-experience-get-programming-jobs-in-companies-like-Google-Facebook-etc
+
+How to prepare for more important job? Dean Jackson 
+
+Business sense - PM 
+TL signal - teaching or mentoring - leadership role 
+
+One of answers is here:
+
+Google and Facebook both seem to look for two things:
+
+Can you code in a language they use, or something similar? Do you know data structures and algorithms?
+Can you design larger systems? Do you ask questions, make tradeoffs well, and accomplish what you were asked to do?
+Facebook (more than Google) also seems to dig for a third category for engineers:
+
+Can you communicate well, do you work well solo and in groups, and would you be a decent human being to be stuck with in an airport? Are you a leader who can drive things on your own, and/or drive things organically across teams or even full organizations?
+Finally, there are honestly some bonus-point things that might help, and might not, depending on recruiter and whatnot:
+
+PM signal: do you have business sense? Can you make solid business decisions?
+TL signal: Have you ever done any teaching or mentoring, or been in a leadership role?
+Coworker wins: volunteerism/community service, etc.
+
