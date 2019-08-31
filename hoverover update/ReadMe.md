@@ -44,3 +44,7 @@ I really like the project since I also like to refresh my coding skills. I need 
 
 From design viewpoint, I do think that LED product purchase is a big decision compared to other purchase. So it may not be the good approach to show more detail to help navigate the webpage. I do believe that writing good case study for the project should be more helpful. It helps the business to serve more customer, and help new customer understand how things should work. 
 
+**JavaScript web compiler** <br>
+
+I need to find a web compiler to help me run JavaScript code I need to test. Actually I have not written JavaScript code for long time. 
+I just quickly googled JavaScript function definition, JavaScript Array api, JavaScript string api etc. 
