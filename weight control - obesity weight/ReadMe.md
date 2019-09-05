@@ -2,5 +2,8 @@ I like to document small projects I work on. The idea is to document how I appro
 
 What are measured will be improved. 
 
-I spent three days to work on the project. August 28, 29, 30. Total time is 24 hours. 
+Fitness training - <br>
+https://tennisfiles.com/11-fitness-principles-tennis<br>
+
+I like to learn from the above article, and apply to my own practice.  
 
