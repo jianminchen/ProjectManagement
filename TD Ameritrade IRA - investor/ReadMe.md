@@ -2,5 +2,5 @@ I like to document small projects I work on. The idea is to document how I appro
 
 What are measured will be improved. 
 
-I spent three days to work on the project. August 28, 29, 30. Total time is 24 hours. 
+My USA IRA - retirement account is called Key Largo. I write blogs about Key Largo portfolio on my coding blogs as well. [Here](http://juliachencoding.blogspot.com/search?q=key+largo+portfolio) is the link to read the portfolio. 
 
