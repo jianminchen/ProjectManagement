@@ -2,5 +2,8 @@ I like to document small projects I work on. The idea is to document how I appro
 
 What are measured will be improved. 
 
-I spent three days to work on the project. August 28, 29, 30. Total time is 24 hours. 
+I have written some blogs related to my lessons related to par 401 K. [Here](http://juliachencoding.blogspot.com/search?q=par+401+K) is the link to read the portfolio. 
+
+I wrote a lot of blogs related to this portfolio. I owned the portfolio starting from 2017. But I did not spend enough time to pay attention to the statements, and funds available and platform I have. I should study the basics how to invest as well. 
+
 
