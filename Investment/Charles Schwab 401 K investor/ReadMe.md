@@ -2,5 +2,6 @@ I like to document small projects I work on. The idea is to document how I appro
 
 What are measured will be improved. 
 
-I spent three days to work on the project. August 28, 29, 30. Total time is 24 hours. 
+[Here](http://juliachencoding.blogspot.com/search?q=par+401+K) is the link to my blog related to my Par 401 K portfolio starting from 2007. I just could not believe that I made so many mistakes on management of portfolio. 
+
 
