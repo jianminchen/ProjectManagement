@@ -2,5 +2,7 @@ I like to document small projects I work on. The idea is to document how I appro
 
 What are measured will be improved. 
 
-I spent three days to work on the project. August 28, 29, 30. Total time is 24 hours. 
+In February 2017, I got my first phone screen from Google. But I could not clear the phone screen. 
+
+
 
