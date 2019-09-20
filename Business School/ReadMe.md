@@ -7,3 +7,5 @@ What I like to do is to study business school by myself. I like to figure out ho
 One day I may have enough wealth to afford a business education. Based on my age, 53 years old, I think that it is better for me to learn how to get educated by myself first, and aslo share my journey to advance myself. 
 
 I like to learn first how Harvard business school learning method. Case study is such a good idea, but I need to figure out the things to check in order to have a good case study. 
+
+[Emotional intelliency](https://www.talentsmart.com/articles/9-Signs-You%E2%80%99re-Successful%E2%80%94Even-If-It-Doesn%E2%80%99t-Feel-Like-It-2147446653-p-1.html) is here. I like to take some notes as well. 
