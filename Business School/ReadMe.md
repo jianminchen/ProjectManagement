@@ -10,5 +10,5 @@ I like to learn first how Harvard business school learning method. Case study is
 
 [Emotional intelliency](https://www.talentsmart.com/articles/9-Signs-You%E2%80%99re-Successful%E2%80%94Even-If-It-Doesn%E2%80%99t-Feel-Like-It-2147446653-p-1.html) is here. I like to take some notes as well. <br>
 [7 Skills To Become Super Smart](https://superscholar.org/features/7-skills-become-super-smart/) <br>
-
+[Conduct a Personal SWOT Analysis to Improve Your Career](https://www.businessnewsdaily.com/5543-personal-swot-analysis.html)<br>
 
