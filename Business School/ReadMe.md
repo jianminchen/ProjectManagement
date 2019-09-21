@@ -8,4 +8,7 @@ One day I may have enough wealth to afford a business education. Based on my age
 
 I like to learn first how Harvard business school learning method. Case study is such a good idea, but I need to figure out the things to check in order to have a good case study. 
 
-[Emotional intelliency](https://www.talentsmart.com/articles/9-Signs-You%E2%80%99re-Successful%E2%80%94Even-If-It-Doesn%E2%80%99t-Feel-Like-It-2147446653-p-1.html) is here. I like to take some notes as well. 
+[Emotional intelliency](https://www.talentsmart.com/articles/9-Signs-You%E2%80%99re-Successful%E2%80%94Even-If-It-Doesn%E2%80%99t-Feel-Like-It-2147446653-p-1.html) is here. I like to take some notes as well. <br>
+[7 Skills To Become Super Smart](https://superscholar.org/features/7-skills-become-super-smart/) <br>
+
+
