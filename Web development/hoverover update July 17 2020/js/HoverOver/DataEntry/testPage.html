@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>     
+    <script src="../../DataStructure/Dictionary.js"></script>
+    <script src="cutoutSize.js"></script>
+    <script src="cutoutSizeMm.js"></script>
+    <script src="test.js"></script>
+    <script src="../../MenuItems/InteriorIngrade.js"></script>
+<body>
+
+<h2>The JavaScript <i>this</i> Keyword</h2>
+
+<p>In this example, <b>this</b> represents the <b>person</b> object.</p>
+<p>Because the person object "owns" the fullName method.</p>
+
+<p id="demo"></p>
+<p id="julia"></p>
+<p id="cutoutSizeMm"></p>
+<p id="itemName"></p>
+    
+<script>
+    // Create an object:
+    var person = {
+        firstName: "John",
+        lastName: "Doe",
+        id: 5566,
+        fullName: function () {
+            return this.firstName + " " + this.lastName;
+        },
+        test: function () {
+            var map = GetTestMap();
+            return map.find("L01");
+        },
+        cutoutSize: function () {
+            var map = GetCutoutSizeMap();
+            return map.find("L01");
+        },
+        cutoutSizeMm: function () {
+            var map = GetCutoutSizeMmMap();
+            return map.find("L01");
+        },
+        menuItems: function () {
+            var items = GetInteriorIngradeItems();
+            return items[1];
+        }
+    };           
+
+    // Display data from the object:
+    document.getElementById("demo").innerHTML = person.fullName();
+    document.getElementById("julia").innerHTML = person.test();
+    document.getElementById("cutoutSizeMm").innerHTML = person.cutoutSizeMm();
+    // itemName
+    document.getElementById("itemName").innerHTML = "Interior ingrade second item - ?" + person.menuItems();
+</script>
+
+</body>
+</html>
